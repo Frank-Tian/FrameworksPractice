@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DynamicFramework' do
+  pod 'SubDynamicFramework', :path => '../SubDynamicFramework/'
+  
+  
+end

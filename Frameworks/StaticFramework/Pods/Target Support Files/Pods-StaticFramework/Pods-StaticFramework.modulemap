@@ -1,0 +1,6 @@
+framework module Pods_StaticFramework {
+  umbrella header "Pods-StaticFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

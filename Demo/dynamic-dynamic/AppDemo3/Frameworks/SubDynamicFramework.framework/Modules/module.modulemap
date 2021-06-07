@@ -1,0 +1,6 @@
+framework module SubDynamicFramework {
+  umbrella header "SubDynamicFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

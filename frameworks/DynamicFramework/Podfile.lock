@@ -1,0 +1,16 @@
+PODS:
+  - SubDynamicFramework (0.1.0)
+
+DEPENDENCIES:
+  - SubDynamicFramework (from `../SubDynamicFramework/`)
+
+EXTERNAL SOURCES:
+  SubDynamicFramework:
+    :path: "../SubDynamicFramework/"
+
+SPEC CHECKSUMS:
+  SubDynamicFramework: 4363f90043392236d5ce5d10c47719204c524de4
+
+PODFILE CHECKSUM: d40d52c0b5d79276427ac93a6d0bf9996f90b06b
+
+COCOAPODS: 1.10.1

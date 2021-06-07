@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AppDemo/Pods-AppDemo-frameworks.sh
+${PODS_ROOT}/../Frameworks/DynamicFramework.framework
+${PODS_ROOT}/../Frameworks/SubDynamicFramework.framework

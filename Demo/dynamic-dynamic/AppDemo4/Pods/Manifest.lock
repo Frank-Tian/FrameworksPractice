@@ -1,0 +1,21 @@
+PODS:
+  - DynamicFramework (0.0.1)
+  - SubDynamicFramework (0.0.1)
+
+DEPENDENCIES:
+  - DynamicFramework (from `Frameworks/`)
+  - SubDynamicFramework (from `Frameworks/`)
+
+EXTERNAL SOURCES:
+  DynamicFramework:
+    :path: Frameworks/
+  SubDynamicFramework:
+    :path: Frameworks/
+
+SPEC CHECKSUMS:
+  DynamicFramework: 8b3ab1e85ba0ba39b9714296076c3a4254ec9680
+  SubDynamicFramework: 337e82fe3afb0a9ea5743c36937b606a15d30fe9
+
+PODFILE CHECKSUM: 7b299b35a33dcf3cc1d208912e724db1790ca60c
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,16 @@
+PODS:
+  - Frameworks (0.0.1)
+
+DEPENDENCIES:
+  - Frameworks (from `Frameworks/`)
+
+EXTERNAL SOURCES:
+  Frameworks:
+    :path: Frameworks/
+
+SPEC CHECKSUMS:
+  Frameworks: 6d8eb7143ec34deb086809dfb4a1de7a15d813e4
+
+PODFILE CHECKSUM: d6d8530e787a8dc87dec95b6c3648edf6c30e5d0
+
+COCOAPODS: 1.10.1

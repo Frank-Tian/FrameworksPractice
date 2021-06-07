@@ -1,0 +1,16 @@
+PODS:
+  - SubStaticFramework (0.0.1)
+
+DEPENDENCIES:
+  - SubStaticFramework (from `Frameworks/`)
+
+EXTERNAL SOURCES:
+  SubStaticFramework:
+    :path: Frameworks/
+
+SPEC CHECKSUMS:
+  SubStaticFramework: 97bee27e9a04bce1ca01cc8fb52b1dc0ff599818
+
+PODFILE CHECKSUM: 07af466e548ce40598e261add2c8e95c3e37618b
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,23 @@
+{
+  "name": "SubStaticFramework",
+  "version": "0.1.0",
+  "summary": "A short description of SubDynamicFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ilovejuly/SubDynamicFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ilovejuly": "tzhz_love@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ilovejuly/SubDynamicFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SubStaticFramework/**/*.{h,m}",
+  "public_header_files": "SubStaticFramework/**/*.h"
+}

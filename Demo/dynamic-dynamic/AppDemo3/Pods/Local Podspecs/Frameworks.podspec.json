@@ -1,0 +1,22 @@
+{
+  "name": "Frameworks",
+  "version": "0.0.1",
+  "summary": "Frameworks.",
+  "homepage": "https://github.com/Frameworks.git",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Frameworks": "Frameworks@abc.cn"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "git@github.com/Frameworks.git",
+    "tag": "0.0.1"
+  },
+  "vendored_frameworks": "*.framework"
+}

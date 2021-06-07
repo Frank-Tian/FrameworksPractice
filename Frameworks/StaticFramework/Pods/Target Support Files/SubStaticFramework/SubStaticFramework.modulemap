@@ -1,0 +1,6 @@
+framework module SubStaticFramework {
+  umbrella header "SubStaticFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
